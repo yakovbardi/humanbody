@@ -8,3 +8,6 @@ create table dbo.body(
     bodypart varchar(100) not null, 
     num int not null
     )
+
+    
+
