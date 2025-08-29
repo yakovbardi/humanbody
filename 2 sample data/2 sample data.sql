@@ -5,4 +5,4 @@ union select 'nose', 1
 union select 'mouth', 1
 union select 'teeth', 32
 union select 'tounue', 1
-union select 'hair', 4000
+union select 'hair', null
